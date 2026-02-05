@@ -3,6 +3,10 @@ body {
     color: white;
 }
 
+ol {
+    background-color: darkorchid;
+}
+
 .title {
     font-size: 24px;
 }
